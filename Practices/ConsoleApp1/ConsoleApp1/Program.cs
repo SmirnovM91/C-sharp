@@ -109,8 +109,6 @@ namespace ConsoleApp1
             Console.WriteLine("Произведение: {0:G}", firstNumb * secondNumb);
         }
 
-        //Дано расстояние в сантиметрах. Найти число полных метров в нем.
-
 
         //С некоторого момента прошло 234 дня. Сколько полных недель прошло за этот период?
         private static void Task4()
@@ -121,6 +119,7 @@ namespace ConsoleApp1
             Console.WriteLine("Полных недель прошло за этот период = {0:G}", weeks);
         }
 
+        //Дано расстояние в сантиметрах. Найти число полных метров в нем.
         private static void Task3()
         {
             Console.WriteLine("\n//Дано расстояние в сантиметрах. Найти число полных метров в нем.");
