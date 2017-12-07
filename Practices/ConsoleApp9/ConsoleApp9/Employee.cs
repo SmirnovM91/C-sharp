@@ -8,11 +8,11 @@ namespace ConsoleApp9
 {
     public struct Employee
     {
-        Vacancies Vacancy { get; set; }
+        public Vacancies Vacancy { get; set; }
         public string Name { get; set; }
         public int Salary { get; set; }
         public DateTime EmploymentDate { get; set; }
-        public Employee(Vacancies vacancy,string name,int salary,DateTime date)
+        public Employee(Vacancies vacancy, string name, int salary, DateTime date)
         {
             Vacancy = vacancy;
             Name = name;
