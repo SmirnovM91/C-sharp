@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>Хабрахабр / Интересные публикации</title>
+    <link>https://habrahabr.ru/</link>
+    <description><![CDATA[Интересные публикации на Хабрахабре]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habrahabr.ru</managingEditor>
+    <generator>habrahabr.ru</generator>
+    <pubDate>Fri, 22 Dec 2017 05:08:35 GMT</pubDate>
+    <lastBuildDate></lastBuildDate>
+      <image>
+        <link>https://habrahabr.ru/</link>
+        <url>https://habrahabr.ru/images/logo.png</url>
+        <title>Хабрахабр</title>
+      </image>
+
+              <item>
+      <title><![CDATA[Чем распознавать на мобильных платформах?]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345268/</guid>
+      <link>https://habrahabr.ru/post/345268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345268</link>
+      <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/post_images/b7c/db6/2c6/b7cdb62c63fb41785741548bfcc65f09.png" alt="image"><br>
+<img src="https://habrastorage.org/getpro/habr/post_images/b7c/f4c/3c7/b7cf4c3c7eaa359ec633a2148bbbaa28.png" alt="image"><br>
+<br>
+Как-то так вышло что на какой бы я бирже фриланса не начинал первый проект — всегда с распознаванием, поэтому в создании приложух с подобным функционалом у меня много опыта, которым я хотел сегодня с вами поделиться.<br> <a href="https://habrahabr.ru/post/345268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345268#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 19:32:02 GMT</pubDate>
+      <dc:creator>vlad2711</dc:creator>
+      <category><![CDATA[Разработка под Android]]></category><category><![CDATA[Разработка мобильных приложений]]></category>
+      <category><![CDATA[android]]></category><category><![CDATA[ocr]]></category><category><![CDATA[face detection]]></category><category><![CDATA[face recognition]]></category><category><![CDATA[recognition]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] 10 самых важных английских слов 2017 года по версии Merriam-Webster]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345238/</guid>
+      <link>https://habrahabr.ru/post/345238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345238</link>
+      <description><![CDATA[Недавно Merriam-Webster опубликовал 10 самых популярных слов 2017 года: именно их пользователи искали чаще всего в уходящем году. Мы перевели и адаптировали <a href="https://www.merriam-webster.com/words-at-play/word-of-the-year-2017-feminism">статью</a> об этом для тех, кто учит английский и хочет лучше разобраться в значении перечисленных слов. <br>
+<br>
+<h3>1. Feminism — феминизм</h3><br>
+<img src="https://habrastorage.org/getpro/habr/post_images/756/a2e/9de/756a2e9de29d79e5bd0bf6670c79caac.jpg" alt="image"><br> <a href="https://habrahabr.ru/post/345238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345238#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 13:35:24 GMT</pubDate>
+      <dc:creator>slpe</dc:creator>
+      <category><![CDATA[Читальный зал]]></category><category><![CDATA[Блог компании Puzzle English]]></category>
+      <category>английский язык</category><category>изучение языков</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Как я писал собственную ERP систему, и что из этого получилось]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345274/</guid>
+      <link>https://habrahabr.ru/post/345274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345274</link>
+      <description><![CDATA[Некоторое время назад ко мне обратился знакомый, хозяин одного из филиалов крупной сети по доставке суши и пицц. Их нынешняя ERP его вообще не устраивала, так как не было контроля за кухней и доставщиками, а так как кухонь по городу у него 5, то это была серьёзная проблема. Он предложил мне написать под него новую систему. <a href="https://habrahabr.ru/post/345274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345274#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 20:39:18 GMT</pubDate>
+      <dc:creator>akadone</dc:creator>
+      <category><![CDATA[ERP-системы]]></category><category><![CDATA[Delphi]]></category>
+      <category><![CDATA[erp-системы]]></category><category><![CDATA[delphi]]></category><category><![CDATA[rad studio]]></category><category><![CDATA[архитектура приложений]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Ферхюльстом по биткойну]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345138/</guid>
+      <link>https://habrahabr.ru/post/345138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345138</link>
+      <description><![CDATA[Биткойн и другие криптовалюты захватили внимание огромного количества людей. Почему бы не воспользоваться этим шансом для популяризации математики и, в частности, Mathcad? В этой статье мы рассмотрим несколько простых широко известных моделей на основе дифференциальных уравнений, а именно, семейства логистических моделей (неограниченного роста, с конкуренцией за ресурс, с промыслом и запаздыванием). Впервые системный фактор, ограничивающий рост биологической популяции, предложил бельгийский математик Ферхюльст, поэтому соответствующая модель (она будет рассмотрена второй по счету) по праву носит его имя. <br>
+<br>
+Поскольку все, что происходит в последнее время с с биткойном, похоже на пирамиду, то и модели будут соответствующие, тем более, что математическому аппарату, благодаря МММ, уже в разное время посвящало свои статьи множество коллег, например, <a href="http://balandin.guru/index_html_files/mmm.pdf">М.Баландин</a> и <a href="http://twt.mpei.ac.ru/ochkov/pyramida.htm">В.Очков</a>. Основное внимание, как и раньше, мы уделим приемам расчетов в Mathcad, в особенности, в его бесплатной версии <a href="http://habrahabr.ru/company/nerepetitor/blog/247999/">Mathcad Express</a>, не настаивая на точности прогноза, каким будет курс биткойна в ближайшее время, и когда именно он рухнет.<br>
+<img src="https://habrastorage.org/webt/gm/f-/ko/gmf-kouzhlvodq8gxinxjywyyyw.png"><br>
+<br> <a href="https://habrahabr.ru/post/345138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345138#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 17:50:11 GMT</pubDate>
+      <dc:creator>polybook</dc:creator>
+      <category><![CDATA[Математика]]></category><category><![CDATA[Занимательные задачки]]></category><category><![CDATA[Блог компании Нерепетитор.ру]]></category>
+      <category><![CDATA[Mathcad Prime]]></category><category><![CDATA[Mathcad Express]]></category><category><![CDATA[логистические модели]]></category><category><![CDATA[дифференциальные уравнения]]></category><category><![CDATA[биткойн]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Развертывание сервера ElectrumX]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345222/</guid>
+      <link>https://habrahabr.ru/post/345222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345222</link>
+      <description><![CDATA[В этой статье я расскажу как развернуть сервер ElectrumX для Emercoin под Ubuntu Server 16.04 LTS, который можно использовать, например, для работы приложений Emercoin Secure Wallet (iOS, Android, Linux, Windows, MacOS). Процесс развертывания ничем не отличается и для других поддерживаемых криптовалют (например, для Bitcoin), с той лишь разницей, что необходимо установить соответствующую ноду нужной криптовалюты и указать именно ее данные в конфиге сервера.<br> <a href="https://habrahabr.ru/post/345222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345222#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 14:21:39 GMT</pubDate>
+      <dc:creator>snvakula</dc:creator>
+      <category><![CDATA[Разработка под Linux]]></category><category><![CDATA[Открытые данные]]></category><category><![CDATA[Криптография]]></category><category><![CDATA[Open source]]></category>
+      <category><![CDATA[electrum]]></category><category><![CDATA[electrumx]]></category><category><![CDATA[emercoin]]></category><category><![CDATA[bitcoin]]></category><category><![CDATA[blockchain]]></category><category><![CDATA[linux]]></category><category><![CDATA[ubuntu]]></category><category><![CDATA[debian]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как мы Raiffeisen.ru редизайнили]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345228/</guid>
+      <link>https://habrahabr.ru/post/345228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345228</link>
+      <description><![CDATA[Слушай, я не помню, как так вышло, но решили запустить новый сайт Райффайзенбанка. Прошлый был с вертикальным меню слева, ты, возможно, даже помнишь его. И кстати, он неплохой в целом получился, для своего времени. Его все нежно любили, как старого подслеповатого пса, привыкли, понимаешь? Но мышей он уже не ловил, не пес в смысле, а сайт, конечно. Я про бизнес-задачи. Навигация какая-то кривая, обилие тупиковых страниц. Ладно бы они рассказывали про представительство банка в Сьерра-Леоне, так нет же, про продукт страницы. И сложилось понимание, нельзя так жить больше, у бизнеса сложилось, мы-то давно на низком старте. С пользователями посложнее: они изменения не любят, как известно. Тут мы, в некотором смысле, выступаем миссионерами, несем благую весть, так сказать. В общем, принялись за дело.<br>
+<br>
+<img src="https://habrastorage.org/webt/c2/dy/7w/c2dy7wcszkgznexoicriu77t9nk.png"> <a href="https://habrahabr.ru/post/345228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345228#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 11:47:24 GMT</pubDate>
+      <dc:creator>kosenkovpavel</dc:creator>
+      <category><![CDATA[Управление проектами]]></category><category><![CDATA[Дизайн мобильных приложений]]></category><category><![CDATA[Веб-дизайн]]></category><category><![CDATA[Usability]]></category><category><![CDATA[Блог компании Райффайзенбанк]]></category>
+      <category><![CDATA[raiffeisenbank]]></category><category><![CDATA[raiffeisen]]></category><category><![CDATA[редизайн сайта]]></category><category><![CDATA[ux/ui]]></category><category><![CDATA[управление проектами]]></category><category><![CDATA[usability  веб-дизайн]]></category><category><![CDATA[usability]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[«Виртуальный университет»: какие VR-проекты развивают в Университете ИТМО]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345256/</guid>
+      <link>https://habrahabr.ru/post/345256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345256</link>
+      <description><![CDATA[Рынок VR растет уверенными темпами — если в прошлом году доходы этой индустрии оценивались в 3,7 млрд долларов, то к 2020 году они, по оценкам, <a href="https://www.statista.com/topics/2532/virtual-reality-vr/">составят</a> уже 30-40 млрд. При этом рынок VR формируется не только за счет продажи оборудования (очков, шлемов) и игр: по <a href="https://www.digi-capital.com/news/2016/01/augmentedvirtual-reality-revenue-forecast-revised-to-hit-120-billion-by-2020/">оценкам</a> Digi-Capital, значительная доля доходов на рынке VR в ближайшем будущем будет приходиться на видео и неигровые приложения, а разработки в этой области продолжат вести как крупные корпорации, так и небольшие стартапы.<br>
+<br>
+Кстати, VR-проекты, которые разрабатываются в Университете ИТМО, также относятся к самым разным нишам — от игровых до образовательных и от софта до железа. А участие в их разработке принимают и студенты, и ученые, и резиденты нашего Технопарка — обо всем этом ниже.<br>
+<br>
+<a href="https://habrahabr.ru/company/spbifmo/blog/345256/"><img src="https://habrastorage.org/webt/_1/p6/xp/_1p6xprfweoy0_51odzcqdozbcy.jpeg"></a> <a href="https://habrahabr.ru/post/345256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345256#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 15:47:20 GMT</pubDate>
+      <dc:creator>itmo</dc:creator>
+      <category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Разработка под e-commerce]]></category><category><![CDATA[Разработка под AR и VR]]></category><category><![CDATA[Блог компании Университет ИТМО]]></category>
+      <category><![CDATA[университет итмо]]></category><category><![CDATA[VR]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как управлять секциями в БД Oracle и не сойти с ума]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345014/</guid>
+      <link>https://habrahabr.ru/post/345014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345014</link>
+      <description><![CDATA[Мы уже <a href="https://habrahabr.ru/company/solarsecurity/blog/324242/">рассказывали</a> о том, почему секционирование баз данных очень важно для производительности DLP-системы и как мы реализовывали его в PostgreSQL. В этой статье речь пойдет об Oracle.<br>
+<br>
+Специфика использования СУБД в DLP-решениях состоит в том, что объем данных прирастает очень быстро. Их невозможно держать в оперативном архиве, и долговременное хранение – это необходимость в компании численностью свыше хотя бы 50 человек. При этом оперативный архив наполняется так быстро, что отдавать информацию в долгосрочный архив приходится раз в 2 недели или чаще. Использование только встроенных средств СУБД требует знаний и опыта. Это главная сложность, и она, в общем-то, очевидна «на берегу». <br>
+<br>
+Кроме того, возникают проблемы, не очевидные сразу. Как вернуть из долгосрочного архива партицию с данными более старой версии приложения и прицепить к более свежей? Что делать, если у них разных формат хранения данных? Что делать, если подключение секции было прервано, и она «зависла» между долговременным и оперативным архивом?<br>
+<br>
+<img src="https://habrastorage.org/webt/q2/zn/kp/q2znkp_0vp28frm6wfidbtyktic.jpeg"><br> <a href="https://habrahabr.ru/post/345014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345014#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 14:27:34 GMT</pubDate>
+      <dc:creator>SolarSecurity</dc:creator>
+      <category><![CDATA[Хранение данных]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Администрирование баз данных]]></category><category><![CDATA[Oracle]]></category><category><![CDATA[Блог компании Solar Security]]></category>
+      <category><![CDATA[oracle database]]></category><category><![CDATA[dlp]]></category><category><![CDATA[администрирование баз данных]]></category><category><![CDATA[субд oracle]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Что-то не так с IDS сигнатурой]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/344642/</guid>
+      <link>https://habrahabr.ru/post/344642/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=344642</link>
+      <description><![CDATA[<img width="800" src="https://habrastorage.org/webt/2u/bl/_z/2ubl_zmrs6ep8ikz_oy-xkosg10.jpeg"><br>
+<br>
+Имена Snort и Suricata IDS знакомы каждому, кто работает в сфере сетевой безопасности. Системы WAF и IDS — это те два класса защитных систем, которые анализируют сетевой трафик, разбирают протоколы самого верхнего уровня и сигнализируют о злонамеренной или нежелательной сетевой активности. Если первая система помогает веб-серверам обнаружить и избегать атак, специфичных только для них, то вторая, IDS, способна обнаружить атаки во всем сетевом трафике.<br>
+<br>
+Многие компании устанавливают IDS для контроля трафика внутри корпоративной сети. Благодаря механизму DPI они собирают транспортные потоки, заглядывают внутрь пакетов от IP до HTTP и DCERPC, а также выявляют как эксплуатацию уязвимостей, так и сетевую активность вредоносных программ.<br>
+<br>
+Сердце и тех и других систем — наборы сигнатур для выявления известных атак, разрабатываются экспертами сетевой безопасности и компаниями по всему миру. Мы, команда @attackdetection, также занимаемся разработкой сигнатур для обнаружения сетевых атак и вредоносной активности. Далее в статье речь пойдет о обнаруженном нами новом подходе, который позволяет нарушить работу систем IDS Suricata и скрыть такую активность. <a href="https://habrahabr.ru/post/344642/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=344642#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 14:37:05 GMT</pubDate>
+      <dc:creator>ajaxtpm</dc:creator>
+      <category><![CDATA[Сетевые технологии]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Блог компании Positive Technologies]]></category>
+      <category><![CDATA[network security]]></category><category><![CDATA[ids]]></category><category><![CDATA[evasion]]></category><category><![CDATA[bypass]]></category><category><![CDATA[cve]]></category><category><![CDATA[suricata]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Бэкенд игрового сервера World in Conflict выложен в открытый доступ]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345244/</guid>
+      <link>https://habrahabr.ru/post/345244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345244</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/115/6ec/28b/1156ec28b4e53d6ac0a09be0856ef41a.jpg" alt="image"></div><br>
+Исключительно хорошая новость: совместными усилиями компаний Ubisoft и шведской Massive Entertainment, <a href="https://forums.ubi.com/showthread.php/1812251">в открытый доступ выложен</a> рабочий сервер для игры <i>World in Conflict</i>. Данная стратегия в реальном времени (RTS) вышла в 2007 году; её официальный сервер <a href="http://www.massgate.org/">Massgate</a> был закрыт в 2016, после чего коммьюнити massgate.org решило вернуть игру к жизни, чем и вдохновило Ubisoft на данный шаг — теперь любой сможет поднять свой собственный сервер для мультиплеера и другого онлайн-функционала. <br>
+<br>
+Исходный код бэкенда доступен <a href="https://github.com/ubisoftinc/massgate">по ссылке на Github</a> по лицензии GPL-2.0. Сам игровой сервер написан на С++, поэтому для компиляции вам потребуются CMake и Visual Studio. Для запуска вам также понадобятся MySQL (в оригинале использовался MySQL 4.2.1, но всё должно работать и на более свежих версиях) и любой простейший веб-сервер (авторы рекомендуют SimpleHTTPServer). <br>
+<br>
+Кстати, саму игру можно сейчас получить абсолютно бесплатно до 23 декабря <a href="http://www.ubisoft.com/happyplaydays">по ссылке</a> — правда, для этого вам может потребоваться завести аккаунт в Uplay.<br> <a href="https://habrahabr.ru/post/345244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345244#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 14:24:10 GMT</pubDate>
+      <dc:creator>HotWaterMusic</dc:creator>
+      <category><![CDATA[Разработка игр]]></category><category><![CDATA[Open source]]></category>
+      <category><![CDATA[игровой сервер]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Отслеживаем Millenium Falcon с помощью TensorFlow]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345250/</guid>
+      <link>https://habrahabr.ru/post/345250/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345250</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/l1/2c/7b/l12c7bo_adfwi1v0tpyu9dqwxto.png"><br>
+<br>
+На момент написания этой статьи большинство крупных технологических компаний (вроде IBM, Google, Microsoft и Amazon) предлагают простые в использовании API визуального распознавания. Аналогичные инструменты предлагают и более мелкие компании, например, Clarifai. Но никто из них не предлагает средств по обнаружению объектов (object detection). <a href="https://habrahabr.ru/post/345250/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345250#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 15:14:08 GMT</pubDate>
+      <dc:creator>SmirkinDA</dc:creator>
+      <category><![CDATA[Визуализация данных]]></category><category><![CDATA[Блог компании Parallels]]></category>
+      <category>parallels</category><category>parallels desktop</category><category>visualisation</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Как я взломал компании, связанные с криптовалютой, и заработал на этом $60 000]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/343152/</guid>
+      <link>https://habrahabr.ru/post/343152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=343152</link>
+      <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/post_images/dbe/76d/0d8/dbe76d0d80d73d1185634fec1fe983da.jpg" alt="image"><br>
+<br>
+Биткоин и криптовалюты в целом сейчас у всех на слуху. Моё знакомство с криптовалютами произошло примерно 5 месяцев назад, именно тогда я начал инвестировать в bitcoin и ethereum, курс на тот момент был по $1900 за btc и $89 за эфир. Для того, чтобы вы могли понять, какой профит я получил, скажу, что на момент написания статьи биткоин стоит <b>$18 100</b>, а эфир <b>$830</b> и продолжает выходить на орбиту вместе с остальными криптовалютами. Подумал, что будет отлично посмотреть насколько безопасны сервисы, в которых я держу свои криптовалютные сбережения, торгую ими или отдаю в доверительное управление.<br> <a href="https://habrahabr.ru/post/343152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=343152#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 15:24:19 GMT</pubDate>
+      <dc:creator>w9w</dc:creator>
+      <category><![CDATA[Финансы в IT]]></category><category><![CDATA[Тестирование веб-сервисов]]></category><category><![CDATA[Тестирование IT-систем]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Информационная безопасность]]></category>
+      <category><![CDATA[уязвимость]]></category><category><![CDATA[xss]]></category><category><![CDATA[idor]]></category><category><![CDATA[csrf]]></category><category><![CDATA[blind xss]]></category><category><![CDATA[disclosure information]]></category><category><![CDATA[bitcoin]]></category><category><![CDATA[ethereum]]></category><category><![CDATA[криптовалюта]]></category><category><![CDATA[биткоин]]></category><category><![CDATA[ефир]]></category><category><![CDATA[okex]]></category><category><![CDATA[инвестирование]]></category><category><![CDATA[доверительное управление]]></category><category><![CDATA[poloniex]]></category><category><![CDATA[инвестиции]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Лекции Технотрека. Разработка под Android (осень 2017)]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345252/</guid>
+      <link>https://habrahabr.ru/post/345252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345252</link>
+      <description><![CDATA[<p><img src="https://habrastorage.org/webt/wa/7n/pv/wa7npvtulvscvbur17cjadofmtu.jpeg"></p><br>
+<p>Представляем вашему вниманию очередную порцию лекций Технотрека. В рамках курса будут рассмотрены основы разработки под Android. Вы научитесь эффективно использовать среду разработки Android Studio для создания пользовательского интерфейса, написания и отладки кода, профилирования приложений, поиска и решения проблем в коде. Узнаете о возможностях стандартной библиотеки и платформы Android, научитесь эффективно их использовать. Освоите проектирование кода, обладающего качествами модульности, расширяемости, простоты поддержки. Научитесь использовать средства автоматизированного тестирования. </p><br>
+<p>Курс ведут Юрий Береза, старший программист студии IT Territory, и Кирилл Филимонов, руководитель команды разработки BeepCar Android.</p> <a href="https://habrahabr.ru/post/345252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345252#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 15:46:26 GMT</pubDate>
+      <dc:creator>Olga_ol</dc:creator>
+      <category><![CDATA[Разработка под Android]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Блог компании Mail.Ru Group]]></category>
+      <category><![CDATA[mail.ru]]></category><category><![CDATA[технотрек]]></category><category><![CDATA[лекции технотрека]]></category><category><![CDATA[android]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как устроены хранилища данных: обзор для новичков]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345154/</guid>
+      <link>https://habrahabr.ru/post/345154/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345154</link>
+      <description><![CDATA[Международный рынок гипермасштабируемых дата-центров <a href="http://www.businesswire.com/news/home/20170904005104/en/High-Adoption-Cloud-based-Storage-Boost-Growth-Hyperscale">растет</a> с ежегодными темпами в 11%. Основные «драйверы» — предприятия, подключенные устройства и пользователи — они обеспечивают постоянное появление новых данных. Вместе с объемом рынка растут и требования к надежности хранения и уровню доступности данных.<br>
+<br>
+Ключевой фактор, влияющий на оба критерия — системы хранения. Их классификация не ограничивается типами оборудования или брендами. В этой статье мы рассмотрим разновидности хранилищ — блочное, файловое и объектное — и определим, для каких целей подходит каждое из них.<br>
+<br>
+<a href="https://habrahabr.ru/company/1cloud/blog/345154/"> <img src="https://habrastorage.org/webt/dw/qc/db/dwqcdbpkox5qy3n2eyd9eiuaocg.jpeg"> </a> <a href="https://habrahabr.ru/post/345154/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345154#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 11:37:30 GMT</pubDate>
+      <dc:creator>1cloud</dc:creator>
+      <category><![CDATA[Хранение данных]]></category><category><![CDATA[Хостинг]]></category><category><![CDATA[Разработка под e-commerce]]></category><category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Блог компании 1cloud.ru]]></category>
+      <category><![CDATA[1cloud]]></category><category><![CDATA[хранение данных]]></category><category><![CDATA[объектное хранилище]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Апдейт Veeam Availability Suite 9.5: что нужно знать]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/344594/</guid>
+      <link>https://habrahabr.ru/post/344594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=344594</link>
+      <description><![CDATA[Компания Veeam <a href="https://www.petri.com/veeams-biggest-release-10-year-history-arrives-today">выпустила</a> новое обновление для решения Veeam Availability Suite 9.5 Update 3, которое позволяет клиентам централизованно управлять данными в <a href="http://www.it-grad.ru/iaas/iaas-vmware/virtual-infrastructure/">виртуальной</a>, физической и многооблачной средах.<br>
+<br>
+Президент Veeam Питер Маккей (Peter McKay) <a href="https://www.businesswire.com/news/home/20171219005587/en/NEW-Veeam-Availability-Suite-9.5-Update-3">назвал</a> апдейт VAS 9.5 U3 самым крупным релизом за всю десятилетнюю историю компании. По словам Питера, обновление предоставит высокий уровень доступности для любых данных и приложений.<br>
+<br>
+Подробнее об особенностях обновления читайте под катом.<br>
+<br>
+<a href="https://habrahabr.ru/company/it-grad/blog/344594/"><img src="https://habrastorage.org/webt/kt/yk/fm/ktykfmjbs9ixkt-zgr_ixjszkmi.jpeg"></a> <a href="https://habrahabr.ru/post/344594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=344594#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 11:30:21 GMT</pubDate>
+      <dc:creator>it_man</dc:creator>
+      <category><![CDATA[Хостинг]]></category><category><![CDATA[Резервное копирование]]></category><category><![CDATA[Восстановление данных]]></category><category><![CDATA[IT-инфраструктура]]></category><category><![CDATA[Блог компании ИТ-ГРАД]]></category>
+      <category><![CDATA[ит-град]]></category><category><![CDATA[veeam]]></category><category><![CDATA[бэкапы]]></category><category><![CDATA[репликация]]></category><category><![CDATA[обновление]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Тестирование компонентов React]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345236/</guid>
+      <link>https://habrahabr.ru/post/345236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345236</link>
+      <description><![CDATA[Овидиу Черешес, автор статьи, перевод которой мы сегодня публикуем, написал тысячи тестов пользовательских интерфейсов. Он говорит, что тестирование должно вселять в разработчика уверенность в том, что его программы работают именно так, как он ожидает, и, в том, что они продолжат делать своё дело и после того, как их модифицируют и расширяют. Однако, тестирование пользовательских интерфейсов редко даёт уверенность. Вместо этого оно часто ведёт к разочарованиям и к мыслям о непродуктивности программистского труда.<br>
+<br>
+<a href="https://habrahabr.ru/company/ruvds/blog/345236/"><div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/3c3/784/656/3c3784656e9e51204bd864351f55d32e.png" alt="image"></div></a><br>
+Он говорит, что поднимает вопрос тестирования интерфейсов, написанных на React, так как сталкивался с характерными для этого процесса проблемами за годы до широкого распространения этого фреймворка, и потратил на их решение уйму времени. Он думает, что ему удалось подобрать инструменты и методы работы, которые позволяют сделать тестирование компонентов React столь же простым, как и их создание.<br>
+<br>
+Он начнёт рассказ с двух базовых принципов, понимание которых важно для нахождения правильного подхода к тестированию, далее будут даны примеры и представлен один полезный инструмент, способный значительно облегчить жизнь тем, кому приходится тестировать React-приложения.<br> <a href="https://habrahabr.ru/post/345236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345236#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 12:39:14 GMT</pubDate>
+      <dc:creator>ru_vds</dc:creator>
+      <category><![CDATA[Тестирование веб-сервисов]]></category><category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[ReactJS]]></category><category><![CDATA[Блог компании RUVDS.com]]></category>
+      <category>React</category><category>Cosmos</category><category>тестирование</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Кому вообще нужны эти CRM-системы?]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345230/</guid>
+      <link>https://habrahabr.ru/post/345230/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345230</link>
+      <description><![CDATA[С тех пор, как мы появились на Хабре, нам удалось собрать внушительную коллекцию вопросов, суждений и заблуждений о CRM. Мы уже не раз читали и слышали, что это злой сисадмин уводит клиентские базы, а вовсе не продажник, что Excel с парой сотен макросов одной левой уделывает учётные системы, что CRM видит, что делает сотрудник на рабочем месте (и подмигивает ему), что сотрудники всё равно угробят любое внедрение и т.д. и т.п. И вообще это всё вендоры выдумывают, а на самом деле CRM-системы бизнесу не нужны, потому что это излишний напряг, куча задач и вообще…<i><font color="#999999">(см. картинку)</font><br>
+<br>
+<a href="https://habrahabr.ru/company/regionsoft/blog/345230/"><div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/23e/419/c11/23e419c11d3de670e2d7d65d93982f9d.png"></div></a></i> <a href="https://habrahabr.ru/post/345230/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345230#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 12:02:32 GMT</pubDate>
+      <dc:creator>Axelus</dc:creator>
+      <category><![CDATA[Управление проектами]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[Бизнес-модели]]></category><category><![CDATA[CRM-системы]]></category><category><![CDATA[Блог компании RegionSoft Developer Studio]]></category>
+      <category><![CDATA[crm-системы]]></category><category><![CDATA[crm-система]]></category><category><![CDATA[crm]]></category><category><![CDATA[regionsoft]]></category><category><![CDATA[regionsoft crm]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] История нигерийского разработчика: от программирования на кнопочном телефоне к работе в стартапе МТИ]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345232/</guid>
+      <link>https://habrahabr.ru/post/345232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345232</link>
+      <description><![CDATA[В 2012 году я был обычным парнишкой из нигерийской деревни, у которого только и было, что мечты да простенький телефон. Сегодня мне 19 лет, я разработчик на Android с более чем 50 приложений в портфолио и работаю в <a href="http://www.dotlearn.org/">стартапе МТИ</a>.<br>
+<br>
+<div style="text-align:center;"><img src="https://habrastorage.org/webt/tj/hb/ly/tjhblycj9-mb5ahr2iyplgmdcwg.jpeg"></div><br>
+<br>
+Все началось с того, что мне стало любопытно, как делаются сайты. Я с детства проводил много времени в Сети — мне очень нравилось качать игры и читать статьи на <a href="https://www.societyofrobots.com/">Society Of Robots</a>. Я неделями откладывал деньги, чтобы купить интернет-пакет с 10 мегабайтами трафика за 100 найр (0.28 $); в 2012-м их можно было растянуть на месяц.<br>
+<br>
+Первый шаг, который я предпринял, был простым: я забил запрос «как сделать сайт» в Google и получил миллионы результатов. Не зная, что выбрать, я кликнул на первую попавшуюся ссылку — это оказался ресурс W3CSchools. В статье объяснялось, что мне нужно будет сначала выучить кое-какие языки (HTML и CSS). Убедившись, что другие источники подтверждают эту информацию, я записался на курс HTML и CSS от <a href="http://www.w3schools.com/">W3CSchools</a>.<br> <a href="https://habrahabr.ru/post/345232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345232#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 12:13:22 GMT</pubDate>
+      <dc:creator>EverydayTools</dc:creator>
+      <category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Управление проектами]]></category><category><![CDATA[Блог компании Everyday Tools]]></category>
+      <category>самообразование</category><category>it сообщество</category><category>стартапы</category><category>инди</category><category>независимые разработчики</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Как сделать внутренний продукт внешним. Опыт команды Яндекс.Трекера]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345044/</guid>
+      <link>https://habrahabr.ru/post/345044/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345044</link>
+      <description><![CDATA[<p>Недавно мы открыли для внешних пользователей <a href="https://yandex.ru/tracker?utm_source=habr&amp;utm_medium=yandexchannel&amp;utm_campaign=abouttracker1">Яндекс.Трекер</a> – нашу систему управления задачами и процессами. В Яндексе его используют не только для создания сервисов, но даже для закупки печенья на кухни. </p><br>
+<p>Как известно, чем меньше компания, тем более простые инструменты она может использовать. Если с утра вы можете поздороваться с каждым сотрудником лично, то вам хватит для работы даже чата в Telegram. Когда появляются отдельные команды, не только поприветствовать каждого лично не получится, но и в статусах задач можно запутаться. </p><br>
+<p><a href="https://habrahabr.ru/company/yandex/blog/345044/"><img src="https://habrastorage.org/webt/ah/uc/aq/ahucaq9mdvxr3agdztqg2hze4jy.png"></a><br>
+<em>Облако из слов в заголовках тикетов во внутреннем Яндекс.Трекере</em></p><br>
+<p>На таком этапе важно сохранять прозрачность процессов: все стороны должны иметь возможность в любой момент узнать о ходе работы над задачей или, например, оставить свой комментарий, который не пропадёт в потоке рабочего чата. Для небольших команд трекер – это и вовсе своего рода новостная лента с последними новостями из жизни их компании.</p><br>
+<p>Сегодня мы расскажем читателям Хабрахабра, почему Яндекс решил создать свой трекер, как он устроен внутри, и с какими сложностями нам пришлось столкнуться, открывая его наружу.</p> <a href="https://habrahabr.ru/post/345044/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345044#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 12:10:17 GMT</pubDate>
+      <dc:creator>lotrek</dc:creator>
+      <category><![CDATA[Управление разработкой]]></category><category><![CDATA[Управление проектами]]></category><category><![CDATA[Управление продуктом]]></category><category><![CDATA[Блог компании Яндекс]]></category>
+      <category><![CDATA[яндекс.трекер]]></category><category><![CDATA[управление задачами]]></category><category><![CDATA[трекер задач]]></category><category><![CDATA[управление разработкой]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] REST — это новый SOAP]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/345184/</guid>
+      <link>https://habrahabr.ru/post/345184/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345184</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/webt/za/je/wu/zajewuqeilwmswjzqzk8-n8eqd8.jpeg"></div><br>
+<p>Несколько лет назад я разрабатывал для одного большого телекома новую информационную систему. Нам приходилось взаимодействовать со всё нарастающим количеством веб-сервисов, открываемых более старыми системами или бизнес-партнёрами. Как вы понимаете, мы получили добрую порцию <a href="https://en.wikipedia.org/wiki/SOAP">SOAP</a>-ада. Заумные <a href="https://en.wikipedia.org/wiki/Web_Services_Description_Language">WSDL</a>, несовместимые библиотеки, странные баги… Где только возможно мы старались продвинуть — и использовать — простые RPC-протоколы: XMLRPC или JSONRPC.</p> <a href="https://habrahabr.ru/post/345184/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=345184#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Thu, 21 Dec 2017 12:07:43 GMT</pubDate>
+      <dc:creator>AloneCoder</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[API]]></category><category><![CDATA[Блог компании Mail.Ru Group]]></category>
+      <category>rest</category><category>soap</category><category>никто не читает теги</category>
+    </item>
+
+
+
+
+
+
+
+  </channel>
+</rss>
