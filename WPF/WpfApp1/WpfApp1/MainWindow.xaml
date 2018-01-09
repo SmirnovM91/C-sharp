@@ -1,0 +1,70 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="480" Width="640">
+    <Grid x:Name="Calendar" OpacityMask="Black">
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="#FF424141" Offset="0"/>
+                <GradientStop Color="#FF1D1C1C" Offset="1"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="14,28571428571429*">
+            </ColumnDefinition>
+            <ColumnDefinition Width="14,28571428571429*">
+            </ColumnDefinition>
+            <ColumnDefinition Width="14,28571428571429*">
+            </ColumnDefinition>
+            <ColumnDefinition Width="14,28571428571429*">
+            </ColumnDefinition>
+            <ColumnDefinition Width="14,28571428571429*">
+            </ColumnDefinition>
+            <ColumnDefinition Width="14,28571428571429*">
+            </ColumnDefinition>
+            <ColumnDefinition Width="14,28571428571429*">
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"></RowDefinition>
+            <RowDefinition Height="16*"></RowDefinition>
+            <RowDefinition Height="16*"></RowDefinition>
+            <RowDefinition Height="16*"></RowDefinition>
+            <RowDefinition Height="16*"></RowDefinition>
+            <RowDefinition Height="16*"></RowDefinition>
+            <RowDefinition Height="16*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.ColumnSpan="7" Background="Black" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="14,28571428571429*">
+                </ColumnDefinition>
+                <ColumnDefinition Width="14,28571428571429*">
+                </ColumnDefinition>
+                <ColumnDefinition Width="14,28571428571429*">
+                </ColumnDefinition>
+                <ColumnDefinition Width="14,28571428571429*">
+                </ColumnDefinition>
+                <ColumnDefinition Width="14,28571428571429*">
+                </ColumnDefinition>
+                <ColumnDefinition Width="14,28571428571429*">
+                </ColumnDefinition>
+                <ColumnDefinition Width="14,28571428571429*">
+                </ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">Sun</TextBlock>
+            <TextBlock Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">Mon</TextBlock>
+            <TextBlock Grid.Column="2" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">Tue</TextBlock>
+            <TextBlock Grid.Column="3" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">Wed</TextBlock>
+            <TextBlock Grid.Column="4" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">Thu</TextBlock>
+            <TextBlock Grid.Column="5" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">Fri</TextBlock>
+            <TextBlock Grid.Column="6" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">Sat</TextBlock>
+        </Grid>
+        
+        
+
+    </Grid>
+</Window>
