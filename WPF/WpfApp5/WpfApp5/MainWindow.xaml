@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfApp5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
+    <Grid>
+        <WebBrowser x:Name="webBrowser" Margin="0,49,0,0" Source="{x:Null}">
+
+        </WebBrowser>
+        <Menu HorizontalAlignment="Left" Height="26" VerticalAlignment="Top" Width="517">
+            <MenuItem Header="Файл" Height="26" Width="67" >
+                <MenuItem Header="Избранное">
+                    <MenuItem Header="ШАГ" Click="MenuItem_Click" DataContext="itstep.kz" />
+                    <MenuItem Header="Google" Click="MenuItem_Click" DataContext="google.kz" />
+
+
+                </MenuItem>
+            </MenuItem>
+            
+        </Menu>
+        <TextBox Name="urlBox" TextWrapping="Wrap" Margin="0,26,81,270" Text="http://google.kz"/>
+        <Button Content="Navigate" Margin="0,26,0,0" VerticalAlignment="Top" Height="23" Click="Button_Click" HorizontalAlignment="Right" Width="81" >
+            <Button.ContextMenu>
+                <ContextMenu>
+                    <Button Content="Cut" Command="ApplicationCommands.Cut"/>
+                    <Button Content="Copy" Command="ApplicationCommands.Copy"/>
+                    <Button Content="Paste" Command="ApplicationCommands.Paste"/>
+                </ContextMenu>
+            </Button.ContextMenu>
+        </Button>
+
+    </Grid>
+</Window>
