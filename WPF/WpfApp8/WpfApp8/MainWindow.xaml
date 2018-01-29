@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApp8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+
+    <Grid>
+        <Button Content="Bullet" HorizontalAlignment="Left" Margin="38,55,0,0" VerticalAlignment="Top" Width="75" Style="{DynamicResource ButtonStyle1}"/>
+        <Button Content="Error" HorizontalAlignment="Left" Margin="161,55,0,0" VerticalAlignment="Top" Width="75" Style="{DynamicResource ButtonStyle2}"/>
+        <Button Content="Succes" HorizontalAlignment="Left" Margin="161,80,0,0" VerticalAlignment="Top" Width="75" Style="{DynamicResource ButtonStyle3}"/>
+        <Button Content="Bullet" HorizontalAlignment="Left" Margin="38,80,0,0" VerticalAlignment="Top" Width="75" Style="{DynamicResource ButtonStyle1}" Click="Button_Click"/>
+
+    </Grid>
+</Window>
